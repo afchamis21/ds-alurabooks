@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -35,16 +35,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "ds-alurabooks-base",
+  "name": "ds-alurabooks-afchamis",
   "author": "vinicios neves",
-  "module": "dist/ds-alurabooks-base.esm.js",
+  "module": "dist/ds-alurabooks-afchamis.esm.js",
   "size-limit": [
     {
-      "path": "dist/ds-alurabooks-base.cjs.production.min.js",
+      "path": "dist/ds-alurabooks-afchamis.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/ds-alurabooks-base.esm.js",
+      "path": "dist/ds-alurabooks-afchamis.esm.js",
       "limit": "10 KB"
     }
   ],
